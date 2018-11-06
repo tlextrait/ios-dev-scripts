@@ -1,0 +1,2 @@
+# This just opens Xcode in the current folder
+open Square.xcworkspace
